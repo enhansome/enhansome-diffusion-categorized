@@ -354,7 +354,7 @@
             "last_commit": "2025-03-05T06:04:36Z",
             "owner": "tianweiy",
             "repo": "DMD2",
-            "stars": 1437
+            "stars": 1438
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2024-03-22T06:56:31Z",
             "owner": "openai",
             "repo": "consistency_models",
-            "stars": 6487
+            "stars": 6486
           }
         },
         {
@@ -2226,7 +2226,7 @@
             "last_commit": "2025-05-12T09:49:11Z",
             "owner": "Fanghua-Yu",
             "repo": "SUPIR",
-            "stars": 5643
+            "stars": 5644
           }
         },
         {
@@ -4379,7 +4379,7 @@
                 "last_commit": "2026-03-25T08:30:35Z",
                 "owner": "JyChen9811",
                 "repo": "FaithDiff",
-                "stars": 265
+                "stars": 266
               }
             },
             {
@@ -6128,7 +6128,7 @@
             "last_commit": "2025-08-29T02:56:01Z",
             "owner": "damo-cv",
             "repo": "JCo-MVTON",
-            "stars": 125
+            "stars": 126
           }
         },
         {
@@ -7715,7 +7715,7 @@
             "last_commit": "2025-11-20T04:25:34Z",
             "owner": "nv-tlabs",
             "repo": "ChronoEdit",
-            "stars": 705
+            "stars": 706
           }
         },
         {
@@ -7940,7 +7940,7 @@
             "last_commit": "2024-03-22T03:28:30Z",
             "owner": "guoqincode",
             "repo": "Focus-on-Your-Instruction",
-            "stars": 115
+            "stars": 114
           }
         },
         {
@@ -8944,10 +8944,10 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:56:19Z",
+                "last_commit": "2026-08-25T07:41:38Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34373
+                "stars": 34375
               }
             },
             {
@@ -14302,7 +14302,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38613
+                "stars": 38615
               }
             },
             {
@@ -17577,7 +17577,7 @@
             "last_commit": "2024-03-08T08:44:28Z",
             "owner": "openai",
             "repo": "glide-text2im",
-            "stars": 3685
+            "stars": 3684
           }
         },
         {
@@ -17922,7 +17922,7 @@
             "last_commit": "2025-07-27T13:37:47Z",
             "owner": "zibojia",
             "repo": "MiniMax-Remover",
-            "stars": 594
+            "stars": 595
           }
         },
         {
@@ -18521,7 +18521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:01.493Z",
+    "last_updated": "2026-08-25T08:06:44.003Z",
     "original_repository": "wangkai930418/awesome-diffusion-categorized",
     "original_repository_id": 642906925,
     "original_repository_sha": "15a421b88d00b0a1a7aa9efa959b81a70e14d018",
