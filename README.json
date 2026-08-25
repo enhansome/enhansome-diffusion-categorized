@@ -75,7 +75,7 @@
             "last_commit": "2025-05-25T16:51:43Z",
             "owner": "Pixtella",
             "repo": "Anagram-MTL",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -834,7 +834,7 @@
             "last_commit": "2026-08-23T10:12:16Z",
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 8811
+            "stars": 8816
           }
         },
         {
@@ -884,7 +884,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Code",
+          "title": "sen-mao/Loopfree",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -1629,7 +1629,7 @@
             "last_commit": "2026-02-09T12:49:43Z",
             "owner": "Tongyi-MAI",
             "repo": "Z-Image",
-            "stars": 11933
+            "stars": 11935
           }
         },
         {
@@ -2043,7 +2043,7 @@
                 "last_commit": "2025-04-21T04:13:09Z",
                 "owner": "tyshiwo1",
                 "repo": "Accelerating-T2I-AR-with-SJD",
-                "stars": 53
+                "stars": 54
               }
             },
             {
@@ -2058,7 +2058,7 @@
                 "last_commit": "2025-04-21T04:13:09Z",
                 "owner": "tyshiwo1",
                 "repo": "Accelerating-T2I-AR-with-SJD",
-                "stars": 53
+                "stars": 54
               }
             },
             {
@@ -2256,7 +2256,7 @@
             "last_commit": "2024-05-13T04:32:41Z",
             "owner": "daooshee",
             "repo": "QuadPrior",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -3638,7 +3638,7 @@
                 "last_commit": "2026-08-15T03:56:15Z",
                 "owner": "TencentARC",
                 "repo": "ColorFlow",
-                "stars": 463
+                "stars": 462
               }
             },
             {
@@ -3870,7 +3870,7 @@
                 "last_commit": "2025-07-29T12:11:31Z",
                 "owner": "XPixelGroup",
                 "repo": "DiffBIR",
-                "stars": 4118
+                "stars": 4119
               }
             },
             {
@@ -4409,7 +4409,7 @@
                 "last_commit": "2026-08-23T17:45:39Z",
                 "owner": "OpenImagingLab",
                 "repo": "FlashVSR",
-                "stars": 1792
+                "stars": 1795
               }
             },
             {
@@ -6263,7 +6263,7 @@
             "last_commit": "2024-05-13T08:50:07Z",
             "owner": "levihsu",
             "repo": "OOTDiffusion",
-            "stars": 6583
+            "stars": 6584
           }
         },
         {
@@ -6449,7 +6449,7 @@
             "last_commit": "2024-05-18T17:51:40Z",
             "owner": "XingangPan",
             "repo": "DragGAN",
-            "stars": 35758
+            "stars": 35757
           }
         },
         {
@@ -7715,7 +7715,7 @@
             "last_commit": "2025-11-20T04:25:34Z",
             "owner": "nv-tlabs",
             "repo": "ChronoEdit",
-            "stars": 704
+            "stars": 705
           }
         },
         {
@@ -7805,7 +7805,7 @@
             "last_commit": "2026-05-13T12:28:19Z",
             "owner": "ChordEdit",
             "repo": "ChordEdit",
-            "stars": 398
+            "stars": 399
           }
         },
         {
@@ -8944,10 +8944,10 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:23:17Z",
+                "last_commit": "2026-08-25T03:56:19Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34365
+                "stars": 34373
               }
             },
             {
@@ -10305,7 +10305,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11261
+            "stars": 11260
           }
         },
         {
@@ -11312,7 +11312,7 @@
                 "last_commit": "2025-07-30T16:00:48Z",
                 "owner": "MS-Diffusion",
                 "repo": "MS-Diffusion",
-                "stars": 312
+                "stars": 313
               }
             },
             {
@@ -11791,7 +11791,7 @@
                 "last_commit": "2025-08-22T21:07:45Z",
                 "owner": "bytedance",
                 "repo": "InfiniteYou",
-                "stars": 2684
+                "stars": 2685
               }
             },
             {
@@ -11911,7 +11911,7 @@
                 "last_commit": "2024-07-18T04:12:48Z",
                 "owner": "instantX-research",
                 "repo": "InstantID",
-                "stars": 11988
+                "stars": 11987
               }
             },
             {
@@ -12046,7 +12046,7 @@
                 "last_commit": "2025-06-06T09:32:00Z",
                 "owner": "modelscope",
                 "repo": "facechain",
-                "stars": 9505
+                "stars": 9507
               }
             },
             {
@@ -14302,7 +14302,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38613
               }
             },
             {
@@ -15517,7 +15517,7 @@
                 "last_commit": "2026-05-26T08:49:34Z",
                 "owner": "Luo-Yihong",
                 "repo": "DGPO",
-                "stars": 86
+                "stars": 87
               }
             },
             {
@@ -16038,7 +16038,7 @@
             "last_commit": "2025-01-23T05:21:26Z",
             "owner": "isjinghao",
             "repo": "GEM",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -16860,7 +16860,7 @@
             "last_commit": "2025-09-12T18:30:41Z",
             "owner": "genforce",
             "repo": "ctrl-x",
-            "stars": 307
+            "stars": 308
           }
         },
         {
@@ -16890,7 +16890,7 @@
             "last_commit": "2025-02-11T15:49:28Z",
             "owner": "HL-hanlin",
             "repo": "Ctrl-Adapter",
-            "stars": 471
+            "stars": 472
           }
         },
         {
@@ -18521,7 +18521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:04:28.030Z",
+    "last_updated": "2026-08-25T05:48:01.493Z",
     "original_repository": "wangkai930418/awesome-diffusion-categorized",
     "original_repository_id": 642906925,
     "original_repository_sha": "15a421b88d00b0a1a7aa9efa959b81a70e14d018",
