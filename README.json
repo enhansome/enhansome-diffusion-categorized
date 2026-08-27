@@ -834,7 +834,7 @@
             "last_commit": "2026-08-27T09:12:35Z",
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 8851
+            "stars": 8853
           }
         },
         {
@@ -1179,7 +1179,7 @@
             "last_commit": "2025-11-02T04:38:14Z",
             "owner": "BienLuky",
             "repo": "CacheQuant",
-            "stars": 48
+            "stars": 49
           }
         },
         {
@@ -1194,7 +1194,7 @@
             "last_commit": "2026-06-29T08:41:02Z",
             "owner": "jiwoogit",
             "repo": "SeaCache",
-            "stars": 99
+            "stars": 100
           }
         },
         {
@@ -1629,7 +1629,7 @@
             "last_commit": "2026-02-09T12:49:43Z",
             "owner": "Tongyi-MAI",
             "repo": "Z-Image",
-            "stars": 11948
+            "stars": 11949
           }
         },
         {
@@ -1641,10 +1641,10 @@
             "archived": false,
             "id": 1110932933,
             "language": "Python",
-            "last_commit": "2026-08-05T05:17:13Z",
+            "last_commit": "2026-08-27T14:12:34Z",
             "owner": "thu-ml",
             "repo": "TurboDiffusion",
-            "stars": 3624
+            "stars": 3625
           }
         },
         {
@@ -3885,7 +3885,7 @@
                 "last_commit": "2026-07-23T01:50:23Z",
                 "owner": "jkwang28",
                 "repo": "OSDFace",
-                "stars": 287
+                "stars": 288
               }
             },
             {
@@ -4379,7 +4379,7 @@
                 "last_commit": "2026-03-25T08:30:35Z",
                 "owner": "JyChen9811",
                 "repo": "FaithDiff",
-                "stars": 267
+                "stars": 268
               }
             },
             {
@@ -4844,7 +4844,7 @@
                 "last_commit": "2026-02-07T23:01:09Z",
                 "owner": "zsyOAOA",
                 "repo": "InvSR",
-                "stars": 1446
+                "stars": 1447
               }
             },
             {
@@ -5447,7 +5447,7 @@
             "last_commit": "2024-09-26T02:17:52Z",
             "owner": "HVision-NKU",
             "repo": "StoryDiffusion",
-            "stars": 6452
+            "stars": 6453
           }
         },
         {
@@ -5888,7 +5888,7 @@
             "last_commit": "2025-10-12T11:55:22Z",
             "owner": "rlawjdghek",
             "repo": "StableVITON",
-            "stars": 1261
+            "stars": 1262
           }
         },
         {
@@ -6278,7 +6278,7 @@
             "last_commit": "2025-12-16T00:59:26Z",
             "owner": "Zheng-Chong",
             "repo": "CatVTON",
-            "stars": 1824
+            "stars": 1825
           }
         },
         {
@@ -8944,10 +8944,10 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:06:41Z",
+                "last_commit": "2026-08-27T12:35:09Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34388
+                "stars": 34391
               }
             },
             {
@@ -10222,7 +10222,7 @@
             "id": 1138061108,
             "language": null,
             "last_commit": "2026-01-20T07:41:03Z",
-            "owner": "Katherine1312",
+            "owner": "MengyuSun2001",
             "repo": "LURE",
             "stars": 0
           }
@@ -11911,7 +11911,7 @@
                 "last_commit": "2024-07-18T04:12:48Z",
                 "owner": "instantX-research",
                 "repo": "InstantID",
-                "stars": 11987
+                "stars": 11988
               }
             },
             {
@@ -13972,7 +13972,7 @@
                 "last_commit": "2026-08-03T03:46:39Z",
                 "owner": "JiazheWei",
                 "repo": "PosterCopilot",
-                "stars": 200
+                "stars": 201
               }
             },
             {
@@ -14302,7 +14302,7 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38630
+                "stars": 38631
               }
             },
             {
@@ -17862,7 +17862,7 @@
             "last_commit": "2024-08-06T07:19:40Z",
             "owner": "open-mmlab",
             "repo": "mmagic",
-            "stars": 7457
+            "stars": 7458
           }
         },
         {
@@ -18521,7 +18521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:22.041Z",
+    "last_updated": "2026-08-27T16:27:41.429Z",
     "original_repository_info": {
       "archived": false,
       "id": 642906925,
