@@ -8816,7 +8816,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5981,
+            "stars": 5982,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -9330,7 +9330,7 @@
             "open_issues": 33,
             "owner": "franciszzj",
             "repo": "Leffa",
-            "stars": 1680,
+            "stars": 1681,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -13283,7 +13283,7 @@
                 "open_issues": 1470,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34666,
+                "stars": 34667,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -17658,7 +17658,7 @@
                 "open_issues": 187,
                 "owner": "instantX-research",
                 "repo": "InstantID",
-                "stars": 11993,
+                "stars": 11994,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:24:38.846Z"
@@ -27652,7 +27652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:08:36.411Z",
+    "last_updated": "2026-10-06T11:59:42.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "collection of diffusion model papers categorized by their subareas",
