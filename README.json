@@ -417,7 +417,7 @@
             "open_issues": 338,
             "owner": "Stability-AI",
             "repo": "generative-models",
-            "stars": 27308,
+            "stars": 27309,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -1238,11 +1238,11 @@
             "id": 871368615,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T08:56:29Z",
-            "open_issues": 134,
+            "last_commit": "2026-10-23T16:06:06Z",
+            "open_issues": 132,
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 9621,
+            "stars": 9636,
             "topics": [
               "diffusion",
               "dit",
@@ -1720,7 +1720,7 @@
             "open_issues": 0,
             "owner": "macovaseas",
             "repo": "ProCache",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -2292,7 +2292,7 @@
             "open_issues": 14,
             "owner": "dc-ai-projects",
             "repo": "DC-Gen",
-            "stars": 428,
+            "stars": 431,
             "topics": [
               "deep-compression-autoencoder",
               "efficient-diffusion-model",
@@ -2432,7 +2432,7 @@
             "open_issues": 113,
             "owner": "Tongyi-MAI",
             "repo": "Z-Image",
-            "stars": 12112,
+            "stars": 12118,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -2650,7 +2650,7 @@
                 "open_issues": 46,
                 "owner": "horseee",
                 "repo": "DeepCache",
-                "stars": 965,
+                "stars": 964,
                 "topics": [
                   "diffusion-models",
                   "efficient-inference",
@@ -3382,7 +3382,7 @@
             "open_issues": 8,
             "owner": "iSEE-Laboratory",
             "repo": "DiffUIR",
-            "stars": 205,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -3629,7 +3629,7 @@
             "open_issues": 3,
             "owner": "sudraj2002",
             "repo": "RestoreVAR",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -3713,7 +3713,7 @@
             "open_issues": 9,
             "owner": "IceClear",
             "repo": "SeedVR2",
-            "stars": 909,
+            "stars": 912,
             "topics": [
               "diffusion-transformer",
               "image-restoration",
@@ -3761,7 +3761,7 @@
             "open_issues": 7,
             "owner": "W2GenAI-Lab",
             "repo": "LucidFlux",
-            "stars": 1300,
+            "stars": 1299,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -4275,7 +4275,7 @@
             "open_issues": 7,
             "owner": "JianghaiSCU",
             "repo": "SIED",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -6561,7 +6561,7 @@
                 "open_issues": 93,
                 "owner": "IceClear",
                 "repo": "StableSR",
-                "stars": 2671,
+                "stars": 2672,
                 "topics": [
                   "stable-diffusion",
                   "stablesr",
@@ -7209,7 +7209,7 @@
                 "open_issues": 40,
                 "owner": "zsyOAOA",
                 "repo": "InvSR",
-                "stars": 1458,
+                "stars": 1457,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:24:38.846Z"
@@ -7721,7 +7721,7 @@
                 "open_issues": 0,
                 "owner": "Chanson94",
                 "repo": "CODSR",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:24:38.846Z"
@@ -8073,7 +8073,7 @@
             "open_issues": 119,
             "owner": "HVision-NKU",
             "repo": "StoryDiffusion",
-            "stars": 6486,
+            "stars": 6487,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -8347,7 +8347,7 @@
             "open_issues": 9,
             "owner": "DavidDinkevich",
             "repo": "Story2Board",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "deep-learning",
               "diffusion-models",
@@ -9312,7 +9312,7 @@
             "open_issues": 73,
             "owner": "Zheng-Chong",
             "repo": "CatVTON",
-            "stars": 1879,
+            "stars": 1880,
             "topics": [
               "diffusion-models",
               "fashion",
@@ -9556,7 +9556,7 @@
             "open_issues": 154,
             "owner": "XingangPan",
             "repo": "DragGAN",
-            "stars": 35718,
+            "stars": 35720,
             "topics": [
               "artificial-intelligence",
               "generative-adversarial-network",
@@ -10457,7 +10457,7 @@
             "open_issues": 5,
             "owner": "wtybest",
             "repo": "FreeFlux",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -11255,7 +11255,7 @@
             "open_issues": 2,
             "owner": "Xilluill",
             "repo": "KV-Edit",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "aigc",
               "flux",
@@ -12639,7 +12639,7 @@
             "open_issues": 6,
             "owner": "yeates",
             "repo": "PromptFix",
-            "stars": 1068,
+            "stars": 1067,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -12825,7 +12825,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-04T09:22:02Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "HiDream-ai",
             "repo": "VAREdit",
             "stars": 107,
@@ -13286,11 +13286,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T06:05:07Z",
-                "open_issues": 1511,
+                "last_commit": "2026-10-24T04:24:24Z",
+                "open_issues": 1516,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34781,
+                "stars": 34788,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -13466,7 +13466,7 @@
                 "open_issues": 5,
                 "owner": "wangjiangshan0725",
                 "repo": "RF-Solver-Edit",
-                "stars": 640,
+                "stars": 641,
                 "topics": [
                   "diffusion-transformer",
                   "flux",
@@ -13555,7 +13555,7 @@
                 "id": 1051523546,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T09:52:27Z",
+                "last_commit": "2026-10-23T10:26:22Z",
                 "open_issues": 1,
                 "owner": "yx-chen-ust",
                 "repo": "EditInfinity",
@@ -14293,7 +14293,7 @@
             "open_issues": 55,
             "owner": "ali-vilab",
             "repo": "ACE_plus",
-            "stars": 1363,
+            "stars": 1362,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -15292,7 +15292,7 @@
             "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11255,
+            "stars": 11254,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -15430,7 +15430,7 @@
             "open_issues": 18,
             "owner": "google",
             "repo": "style-aligned",
-            "stars": 1313,
+            "stars": 1312,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -17440,7 +17440,7 @@
                 "open_issues": 160,
                 "owner": "TencentARC",
                 "repo": "PhotoMaker",
-                "stars": 10089,
+                "stars": 10090,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:24:38.846Z"
@@ -17665,7 +17665,7 @@
                 "open_issues": 187,
                 "owner": "instantX-research",
                 "repo": "InstantID",
-                "stars": 11989,
+                "stars": 11991,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:24:38.846Z"
@@ -20035,7 +20035,7 @@
                 "open_issues": 3,
                 "owner": "madaror",
                 "repo": "tiled-diffusion",
-                "stars": 88,
+                "stars": 90,
                 "topics": [
                   "cvpr2025",
                   "deep-learning",
@@ -20749,7 +20749,7 @@
                 "open_issues": 0,
                 "owner": "kate-feingold",
                 "repo": "match-and-fuse",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "consistency",
                   "controllable-generation",
@@ -21292,11 +21292,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T00:52:55Z",
-                "open_issues": 2009,
+                "last_commit": "2026-10-23T21:57:07Z",
+                "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39010,
+                "stars": 39015,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -23322,7 +23322,7 @@
             "open_issues": 23,
             "owner": "ermongroup",
             "repo": "SDEdit",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "controllable-generation",
               "image-editing",
@@ -23944,7 +23944,7 @@
             "open_issues": 116,
             "owner": "GaParmar",
             "repo": "img2img-turbo",
-            "stars": 2485,
+            "stars": 2486,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -24123,7 +24123,7 @@
             "open_issues": 72,
             "owner": "ShoufaChen",
             "repo": "DiffusionDet",
-            "stars": 2259,
+            "stars": 2260,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -24278,7 +24278,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-04-14T18:13:04Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "alimohammadiamirhossein",
             "repo": "smite",
             "stars": 214,
@@ -25233,7 +25233,7 @@
             "open_issues": 301,
             "owner": "tencent-ailab",
             "repo": "IP-Adapter",
-            "stars": 6699,
+            "stars": 6700,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -26545,7 +26545,7 @@
             "open_issues": 25,
             "owner": "zjx0101",
             "repo": "ObjectClear",
-            "stars": 627,
+            "stars": 628,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:38.846Z"
@@ -27659,7 +27659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:59:24.665Z",
+    "last_updated": "2026-10-24T09:28:16.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "collection of diffusion model papers categorized by their subareas",
