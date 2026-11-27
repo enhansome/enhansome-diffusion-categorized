@@ -205,7 +205,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 \[[Diffusers 1](https://huggingface.co/stabilityai/sdxl-turbo)]
 \[[Diffusers 2](https://huggingface.co/docs/diffusers/en/using-diffusers/sdxl_turbo)]
 \[[Project](https://huggingface.co/stabilityai)]
-\[[Code](https://github.com/Stability-AI/generative-models) ⭐ 27,348 | 🐛 336 | 🌐 Python | 📅 2025-12-16]
+\[[Code](https://github.com/Stability-AI/generative-models) ⭐ 27,350 | 🐛 336 | 🌐 Python | 📅 2025-12-16]
 
 **Trajectory Consistency Distillation: Improved Latent Consistency Distillation by Semi-Linear Consistency Function with Trajectory Mapping** \
 \[[Website](https://arxiv.org/abs/2405.14867)]
@@ -293,7 +293,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model** \
 \[[Website](https://arxiv.org/abs/2411.19108)]
 \[[Project](https://liewfeng.github.io/TeaCache/)]
-\[[Code](https://github.com/LiewFeng/TeaCache) ⭐ 1,394 | 🐛 30 | 🌐 Python | 📅 2025-06-08]
+\[[Code](https://github.com/LiewFeng/TeaCache) ⭐ 1,395 | 🐛 30 | 🌐 Python | 📅 2025-06-08]
 
 **You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs** \
 \[[Website](https://arxiv.org/abs/2403.12931)]
@@ -388,7 +388,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation** \
 \[[Website](https://arxiv.org/abs/2503.09641)]
 \[[Project](https://nvlabs.github.io/Sana/Sprint/)]
-\[[Code](https://github.com/NVlabs/Sana) ⭐ 9,908 | 🐛 138 | 🌐 Python | 📅 2026-11-25]
+\[[Code](https://github.com/NVlabs/Sana) ⭐ 9,914 | 🐛 138 | 🌐 Python | 📅 2026-11-27]
 
 **LeMiCa: Lexicographic Minimax Path Caching for Efficient Diffusion-Based Video Generation** \
 \[[Website](https://arxiv.org/abs/2511.00090)]
@@ -607,7 +607,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation** \
 \[[Website](https://arxiv.org/abs/2510.14974)]
-\[[Code](https://github.com/Lakonik/piFlow) ⭐ 607 | 🐛 11 | 🌐 Python | 📅 2026-11-21]
+\[[Code](https://github.com/Lakonik/piFlow) ⭐ 609 | 🐛 11 | 🌐 Python | 📅 2026-11-21]
 
 **Towards One-step Causal Video Generation via Adversarial Self-Distillation** \
 \[[Website](https://arxiv.org/abs/2511.01419)]
@@ -619,11 +619,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield** \
 \[[Website](https://arxiv.org/abs/2511.22677)]
-\[[Code](https://github.com/Tongyi-MAI/Z-Image) ⭐ 12,194 | 🐛 114 | 🌐 Python | 📅 2026-02-09]
+\[[Code](https://github.com/Tongyi-MAI/Z-Image) ⭐ 12,195 | 🐛 114 | 🌐 Python | 📅 2026-02-09]
 
 **TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times** \
 \[[Website](https://arxiv.org/abs/2512.16093)]
-\[[Code](https://github.com/thu-ml/TurboDiffusion) ⭐ 3,873 | 🐛 81 | 🌐 Python | 📅 2026-11-04]
+\[[Code](https://github.com/thu-ml/TurboDiffusion) ⭐ 3,871 | 🐛 81 | 🌐 Python | 📅 2026-11-04]
 
 **CorGi: Contribution-Guided Block-Wise Interval Caching for Training-Free Acceleration of Diffusion Transformers** \
 \[[Website](https://arxiv.org/abs/2512.24195)]
@@ -1320,12 +1320,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training** \
 \[[Website](https://arxiv.org/abs/2506.05301)]
 \[[Project](https://iceclear.github.io/projects/seedvr2/)]
-\[[Code](https://github.com/IceClear/SeedVR2) ⭐ 946 | 🐛 9 | 📅 2026-01-27]
+\[[Code](https://github.com/IceClear/SeedVR2) ⭐ 947 | 🐛 9 | 📅 2026-01-27]
 
 **Text-Aware Image Restoration with Diffusion Models** \
 \[[Website](https://arxiv.org/abs/2506.09993)]
 \[[Project](https://cvlab-kaist.github.io/TAIR/)]
-\[[Code](https://github.com/cvlab-kaist/TAIR) ⭐ 259 | 🐛 4 | 🌐 Python | 📅 2026-02-23]
+\[[Code](https://github.com/cvlab-kaist/TAIR) ⭐ 258 | 🐛 4 | 🌐 Python | 📅 2026-02-23]
 
 **LucidFlux: Caption-Free Universal Image Restoration via a Large-Scale Diffusion Transformer** \
 \[[Website](https://arxiv.org/abs/2509.22414)]
@@ -1363,11 +1363,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 <!-- [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)] -->
 
 \[[ICCV 2023](https://arxiv.org/abs/2303.09472)]
-\[[Code](https://github.com/Zj-BinXia/DiffIR) ⭐ 614 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2024-08-25]
+\[[Code](https://github.com/Zj-BinXia/DiffIR) ⭐ 615 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2024-08-25]
 
 **Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal** \
 \[[ICCV 2025](https://arxiv.org/pdf/2502.09873)]
-\[[Code](https://github.com/jp-guo/CODiff) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2026-06-25]
+\[[Code](https://github.com/jp-guo/CODiff) ⭐ 81 | 🐛 0 | 🌐 Python | 📅 2026-06-25]
 
 **Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance** \
 \[[CVPR 2024](https://arxiv.org/abs/2312.16519)]
@@ -1395,7 +1395,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Residual Denoising Diffusion Models** \
 \[[CVPR 2024](https://arxiv.org/abs/2308.13712)]
-\[[Code](https://github.com/nachifur/RDDM) ⭐ 585 | 🐛 3 | 🌐 Python | 📅 2026-06-09]
+\[[Code](https://github.com/nachifur/RDDM) ⭐ 586 | 🐛 3 | 🌐 Python | 📅 2026-06-09]
 
 **Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks** \
 \[[CVPR 2024](https://arxiv.org/abs/2403.00644)]
@@ -1611,7 +1611,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Residual Diffusion Bridge Model for Image Restoration** \
 \[[Website](https://arxiv.org/abs/2510.23116)]
-\[[Code](https://github.com/MiliLab/RDBM) ⭐ 59 | 🐛 6 | 🌐 Python | 📅 2026-06-06]
+\[[Code](https://github.com/MiliLab/RDBM) ⭐ 60 | 🐛 6 | 🌐 Python | 📅 2026-06-06]
 
 **Learnable Fractional Reaction-Diffusion Dynamics for Under-Display ToF Imaging and Beyond** \
 \[[Website](https://arxiv.org/abs/2511.01704)]
@@ -1968,7 +1968,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Cobra: Efficient Line Art COlorization with BRoAder References** \
 \[[SIGGRAPH 2025](https://arxiv.org/abs/2504.12240)]
 \[[Project](https://zhuang2002.github.io/Cobra/)]
-\[[Code](https://github.com/Zhuang2002/Cobra) ⭐ 253 | 🐛 10 | 🌐 Python | 📅 2026-08-15]
+\[[Code](https://github.com/Zhuang2002/Cobra) ⭐ 254 | 🐛 10 | 🌐 Python | 📅 2026-08-15]
 
 **MagicColor: Multi-Instance Sketch Colorization** \
 \[[Website](https://arxiv.org/abs/2503.16948)]
@@ -2089,7 +2089,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior** \
 \[[Website](https://arxiv.org/abs/2308.15070)]
 \[[Project](https://0x3f3f3f3fun.github.io/projects/diffbir/)]
-\[[Code](https://github.com/XPixelGroup/DiffBIR) ⭐ 4,122 | 🐛 122 | 🌐 Python | 📅 2025-07-29]
+\[[Code](https://github.com/XPixelGroup/DiffBIR) ⭐ 4,123 | 🐛 122 | 🌐 Python | 📅 2025-07-29]
 
 **OSDFace: One-Step Diffusion Model for Face Restoration** \
 \[[Website](https://arxiv.org/abs/2411.17163)]
@@ -2364,7 +2364,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution** \
 \[[Website](https://arxiv.org/abs/2510.12747)]
 \[[Project](https://zhuang2002.github.io/FlashVSR/)]
-\[[Code](https://github.com/OpenImagingLab/FlashVSR) ⭐ 1,984 | 🐛 76 | 🌐 Python | 📅 2026-10-16]
+\[[Code](https://github.com/OpenImagingLab/FlashVSR) ⭐ 1,986 | 🐛 76 | 🌐 Python | 📅 2026-10-16]
 
 **Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion** \
 \[[Website](https://arxiv.org/abs/2512.23709)]
@@ -3134,7 +3134,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 \[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_TryOnDiffusion_A_Tale_of_Two_UNets_CVPR_2023_paper.html)]
 \[[Website](https://arxiv.org/abs/2306.08276)]
 \[[Project](https://tryondiffusion.github.io/)]
-\[[Official Code](https://github.com/tryonlabs/tryondiffusion) ⭐ 575 | 🐛 11 | 🌐 Python | 📅 2026-11-26]
+\[[Official Code](https://github.com/tryonlabs/tryondiffusion) ⭐ 577 | 🐛 9 | 🌐 Python | 📅 2026-11-26]
 \[[Unofficial Code](https://github.com/fashn-AI/tryondiffusion) ⭐ 384 | 🐛 1 | 🌐 Python | 📅 2024-10-14]
 
 **ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On** \
@@ -3165,7 +3165,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person** \
 \[[Website](https://arxiv.org/abs/2407.16224)]
 \[[Project](https://humanaigc.github.io/outfit-anyone/)]
-\[[Code](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,977 | 🐛 55 | 📅 2024-07-26]
+\[[Code](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,978 | 🐛 55 | 📅 2024-07-26]
 
 **AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models** \
 \[[Website](https://arxiv.org/abs/2412.04146)]
@@ -3261,7 +3261,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on** \
 \[[Website](https://arxiv.org/abs/2403.01779)]
-\[[Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,622 | 🐛 88 | 🌐 Python | 📅 2024-05-13]
+\[[Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,623 | 🐛 88 | 🌐 Python | 📅 2024-05-13]
 
 **CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Model** \
 \[[Website](https://arxiv.org/abs/2407.15886)]
@@ -3269,7 +3269,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Learning Flow Fields in Attention for Controllable Person Image Generation** \
 \[[Website](https://arxiv.org/abs/2412.08486)]
-\[[Code](https://github.com/franciszzj/Leffa) ⭐ 1,695 | 🐛 34 | 🌐 Python | 📅 2025-09-12]
+\[[Code](https://github.com/franciszzj/Leffa) ⭐ 1,696 | 🐛 34 | 🌐 Python | 📅 2025-09-12]
 
 **DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling** \
 \[[Website](https://arxiv.org/abs/2305.01257)]
@@ -3673,14 +3673,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 \[[Code](https://github.com/pix2pixzero/pix2pix-zero) ⭐ 1,145 | 🐛 30 | 🌐 Python | 📅 2024-10-16]
 \[[Replicate Demo](https://replicate.com/cjwbw/pix2pix-zero)]
 \[[Diffusers Doc](https://huggingface.co/docs/diffusers/v0.16.0/api/pipelines/stable_diffusion/pix2pix_zero)]
-\[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_pix2pix_zero.py) ⭐ 34,981 | 🐛 1,641 | 🌐 Python | 📅 2026-11-26]
+\[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_pix2pix_zero.py) ⭐ 34,983 | 🐛 1,650 | 🌐 Python | 📅 2026-11-27]
 
 **InstructPix2Pix: Learning to Follow Image Editing Instructions** \
 \[[CVPR 2023 (Highlight)](https://openaccess.thecvf.com/content/CVPR2023/html/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.html)]
 \[[Website](https://arxiv.org/abs/2211.09800)]
 \[[Project](https://www.timothybrooks.com/instruct-pix2pix/)]
 \[[Diffusers Doc](https://huggingface.co/docs/diffusers/v0.13.0/en/api/pipelines/stable_diffusion/pix2pix)]
-\[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_instruct_pix2pix.py) ⭐ 34,981 | 🐛 1,641 | 🌐 Python | 📅 2026-11-26]
+\[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_instruct_pix2pix.py) ⭐ 34,983 | 🐛 1,650 | 🌐 Python | 📅 2026-11-27]
 \[[Official Code](https://github.com/timothybrooks/instruct-pix2pix) ⭐ 6,885 | 🐛 79 | 🌐 Python | 📅 2024-03-03]
 \[[Dataset](http://instruct-pix2pix.eecs.berkeley.edu/)]
 
@@ -3698,13 +3698,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 \[[Website](https://arxiv.org/abs/2210.11427)]
 \[[Unofficial Code](https://paperswithcode.com/paper/diffedit-diffusion-based-semantic-image)]
 \[[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/diffedit)]
-\[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_diffedit.py) ⭐ 34,981 | 🐛 1,641 | 🌐 Python | 📅 2026-11-26]
+\[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_diffedit.py) ⭐ 34,983 | 🐛 1,650 | 🌐 Python | 📅 2026-11-27]
 
 **Imagic: Text-Based Real Image Editing with Diffusion Models** \
 \[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Kawar_Imagic_Text-Based_Real_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html)]
 \[[Website](https://arxiv.org/abs/2210.09276)]
 \[[Project](https://imagic-editing.github.io/)]
-\[[Diffusers](https://github.com/huggingface/diffusers/tree/main/examples/community#imagic-stable-diffusion) ⭐ 34,981 | 🐛 1,641 | 🌐 Python | 📅 2026-11-26]
+\[[Diffusers](https://github.com/huggingface/diffusers/tree/main/examples/community#imagic-stable-diffusion) ⭐ 34,983 | 🐛 1,650 | 🌐 Python | 📅 2026-11-27]
 
 **Inpaint Anything: Segment Anything Meets Image Inpainting** \
 \[[Website](https://arxiv.org/abs/2304.06790)]
@@ -3715,7 +3715,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 \[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Cao_MasaCtrl_Tuning-Free_Mutual_Self-Attention_Control_for_Consistent_Image_Synthesis_and_ICCV_2023_paper.html)]
 \[[Website](https://arxiv.org/abs/2304.08465)]
 \[[Project](https://ljzycmd.github.io/projects/MasaCtrl/)]
-\[[Code](https://github.com/TencentARC/MasaCtrl) ⭐ 838 | 🐛 26 | 🌐 Python | 📅 2024-08-19]
+\[[Code](https://github.com/TencentARC/MasaCtrl) ⭐ 839 | 🐛 26 | 🌐 Python | 📅 2024-08-19]
 \[[Demo](https://huggingface.co/spaces/TencentARC/MasaCtrl)]
 
 **SINE: SINgle Image Editing with Text-to-Image Diffusion Models** \
@@ -3836,7 +3836,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **R-Genie: Reasoning-Guided Generative Image Editing** \
 \[[Website](https://arxiv.org/abs/2505.17768)]
 \[[Project](https://dongzhang89.github.io/RGenie.github.io/)]
-\[[Code](https://github.com/HE-Lingfeng/R-Genie-public) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-11-26]
+\[[Code](https://github.com/HE-Lingfeng/R-Genie-public) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-11-27]
 
 **EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing** \
 \[[Website](https://arxiv.org/abs/2503.10270)]
@@ -3856,7 +3856,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer** \
 \[[Website](https://arxiv.org/abs/2504.20690)]
 \[[Project](https://river-zhang.github.io/ICEdit-gh-pages/)]
-\[[Code](https://github.com/River-Zhang/ICEdit) ⭐ 2,094 | 🐛 24 | 🌐 Python | 📅 2025-12-19]
+\[[Code](https://github.com/River-Zhang/ICEdit) ⭐ 2,095 | 🐛 24 | 🌐 Python | 📅 2025-12-19]
 
 **EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods** \
 \[[Website](https://arxiv.org/abs/2310.02426)]
@@ -4129,7 +4129,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Step1X-Edit: A Practical Framework for General Image Editing** \
 \[[Website](https://arxiv.org/abs/2504.17761)]
-\[[Code](https://github.com/stepfun-ai/Step1X-Edit) ⭐ 2,272 | 🐛 33 | 🌐 Python | 📅 2026-04-29]
+\[[Code](https://github.com/stepfun-ai/Step1X-Edit) ⭐ 2,271 | 🐛 33 | 🌐 Python | 📅 2026-04-29]
 
 **GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing** \
 \[[Website](https://arxiv.org/abs/2503.10639v1)]
@@ -4249,7 +4249,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **PromptFix: You Prompt and We Fix the Photo** \
 \[[Website](https://arxiv.org/abs/2405.16785)]
-\[[Code](https://github.com/yeates/PromptFix) ⭐ 1,067 | 🐛 6 | 🌐 Python | 📅 2024-10-04]
+\[[Code](https://github.com/yeates/PromptFix) ⭐ 1,068 | 🐛 6 | 🌐 Python | 📅 2024-10-04]
 
 **FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation** \
 \[[Website](https://arxiv.org/abs/2408.00998)]
@@ -4321,7 +4321,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **REASONEDIT: Towards Reasoning-Enhanced Image Editing Models** \
 \[[Website](https://arxiv.org/abs/2511.22625)]
-\[[Code](https://github.com/stepfun-ai/Step1X-Edit) ⭐ 2,272 | 🐛 33 | 🌐 Python | 📅 2026-04-29]
+\[[Code](https://github.com/stepfun-ai/Step1X-Edit) ⭐ 2,271 | 🐛 33 | 🌐 Python | 📅 2026-04-29]
 
 **Refaçade: Editing Object with Given Reference Texture** \
 \[[Website](https://arxiv.org/abs/2512.04534)]
@@ -4886,7 +4886,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LEDITS++: Limitless Image Editing using Text-to-Image Models** \
 \[[CVPR 2024](https://arxiv.org/abs/2311.16711)]
 \[[Project](https://leditsplusplus-project.static.hf.space/index.html)]
-\[[Code](https://github.com/huggingface/diffusers/tree/main/src/diffusers/pipelines/ledits_pp) ⭐ 34,981 | 🐛 1,641 | 🌐 Python | 📅 2026-11-26]
+\[[Code](https://github.com/huggingface/diffusers/tree/main/src/diffusers/pipelines/ledits_pp) ⭐ 34,983 | 🐛 1,650 | 🌐 Python | 📅 2026-11-27]
 
 **Noise Map Guidance: Inversion with Spatial Context for Real Image Editing** \
 \[[ICLR 2024](https://openreview.net/forum?id=mhgm0IXtHw)]
@@ -6574,7 +6574,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation** \
 \[[ECCV 2024](https://arxiv.org/abs/2405.05806)]
 \[[Project](https://masterweaver.github.io/)]
-\[[Code](https://github.com/csyxwei/MasterWeaver) ⭐ 135 | 🐛 1 | 🌐 Python | 📅 2024-07-23]
+\[[Code](https://github.com/csyxwei/MasterWeaver) ⭐ 134 | 🐛 1 | 🌐 Python | 📅 2024-07-23]
 
 **FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
 \[[IJCV 2024](https://arxiv.org/abs/2305.10431)]
@@ -6589,7 +6589,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding** \
 \[[CVPR 2024](https://arxiv.org/abs/2312.04461)]
 \[[Project](https://photo-maker.github.io/)]
-\[[Code](https://github.com/TencentARC/PhotoMaker) ⭐ 10,080 | 🐛 160 | 🌐 Jupyter Notebook | 📅 2024-10-31]
+\[[Code](https://github.com/TencentARC/PhotoMaker) ⭐ 10,081 | 🐛 160 | 🌐 Jupyter Notebook | 📅 2024-10-31]
 
 **Visual Persona: Foundation Model for Full-Body Human Customization** \
 \[[CVPR 2025](https://arxiv.org/abs/2503.15406)]
@@ -6797,13 +6797,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 \[[Official Dataset](https://github.com/google/dreambooth) ⚠️ Archived]
 \[[Unofficial Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) ⭐ 7,725 | 🐛 138 | 🌐 Jupyter Notebook | 📅 2022-12-08]
 \[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/dreambooth)]
-\[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth) ⭐ 34,981 | 🐛 1,641 | 🌐 Python | 📅 2026-11-26]
+\[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth) ⭐ 34,983 | 🐛 1,650 | 🌐 Python | 📅 2026-11-27]
 
 **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** \
 \[[ICLR 2023 top-25%](https://openreview.net/forum?id=NAQvF08TcyG)]
 \[[Website](https://arxiv.org/abs/2208.01618)]
 \[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/text_inversion)]
-\[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion) ⭐ 34,981 | 🐛 1,641 | 🌐 Python | 📅 2026-11-26]
+\[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion) ⭐ 34,983 | 🐛 1,650 | 🌐 Python | 📅 2026-11-27]
 \[[Code](https://github.com/rinongal/textual_inversion) ⭐ 3,054 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2023-02-27]
 
 **Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion** \
@@ -6811,7 +6811,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 \[[Website](https://arxiv.org/abs/2212.04488)]
 \[[Project](https://www.cs.cmu.edu/~custom-diffusion/)]
 \[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/training/custom_diffusion)]
-\[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/custom_diffusion) ⭐ 34,981 | 🐛 1,641 | 🌐 Python | 📅 2026-11-26]
+\[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/custom_diffusion) ⭐ 34,983 | 🐛 1,650 | 🌐 Python | 📅 2026-11-27]
 \[[Code](https://github.com/adobe-research/custom-diffusion) ⭐ 1,976 | 🐛 51 | 🌐 Python | 📅 2026-05-24]
 
 **Cones: Concept Neurons in Diffusion Models for Customized Generation** \
@@ -6834,7 +6834,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **A Neural Space-Time Representation for Text-to-Image Personalization** \
 \[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.15391)]
 \[[Project](https://neuraltextualinversion.github.io/NeTI/)]
-\[[Code](https://github.com/NeuralTextualInversion/NeTI) ⭐ 183 | 🐛 2 | 🌐 Python | 📅 2023-09-19]
+\[[Code](https://github.com/NeuralTextualInversion/NeTI) ⭐ 184 | 🐛 2 | 🌐 Python | 📅 2023-09-19]
 
 **Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation** \
 \[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71329)]
@@ -7019,7 +7019,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Motion Inversion for Video Customization** \
 \[[Website](https://arxiv.org/abs/2403.20193)]
 \[[Project](https://wileewang.github.io/MotionInversion/)]
-\[[Code](https://github.com/EnVision-Research/MotionInversion) ⭐ 154 | 🐛 6 | 🌐 Python | 📅 2024-10-22]
+\[[Code](https://github.com/EnVision-Research/MotionInversion) ⭐ 153 | 🐛 6 | 🌐 Python | 📅 2024-10-22]
 
 **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** \
 \[[Website](https://arxiv.org/abs/2502.08189)]
@@ -7517,7 +7517,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment** \
 \[[Website](https://arxiv.org/abs/2403.05135)]
 \[[Project](https://ella-diffusion.github.io/)]
-\[[Code](https://github.com/ELLA-Diffusion/ELLA) ⭐ 1,287 | 🐛 35 | 🌐 Python | 📅 2024-07-17]
+\[[Code](https://github.com/ELLA-Diffusion/ELLA) ⭐ 1,288 | 🐛 35 | 🌐 Python | 📅 2024-07-17]
 
 **HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts** \
 \[[Website](https://arxiv.org/abs/2409.02919)]
@@ -7532,7 +7532,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Omegance: A Single Parameter for Various Granularities in Diffusion-Based Synthesis** \
 \[[Website](https://arxiv.org/abs/2411.17769)]
 \[[Project](https://itsmag11.github.io/Omegance/)]
-\[[Code](https://github.com/itsmag11/Omegance) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2026-11-03]
+\[[Code](https://github.com/itsmag11/Omegance) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2026-11-26]
 
 **TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation** \
 \[[Website](https://arxiv.org/abs/2404.18919)]
@@ -7577,7 +7577,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning** \
 \[[Website](https://arxiv.org/abs/2508.20751)]
 \[[Project](https://codegoat24.github.io/UnifiedReward/Pref-GRPO)]
-\[[Code](https://github.com/CodeGoat24/Pref-GRPO) ⭐ 282 | 🐛 5 | 🌐 Python | 📅 2026-02-10]
+\[[Code](https://github.com/CodeGoat24/Pref-GRPO) ⭐ 282 | 🐛 5 | 🌐 Python | 📅 2026-11-27]
 
 **PractiLight: Practical Light Control Using Foundational Diffusion Models** \
 \[[Website](https://arxiv.org/abs/2509.01837)]
@@ -7592,7 +7592,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel** \
 \[[Website](https://arxiv.org/abs/2509.24979)]
 \[[Project](https://donghaotian123.github.io/Wan-Alpha/)]
-\[[Code](https://github.com/WeChatCV/Wan-Alpha) ⭐ 427 | 🐛 19 | 🌐 Python | 📅 2026-10-20]
+\[[Code](https://github.com/WeChatCV/Wan-Alpha) ⭐ 426 | 🐛 19 | 🌐 Python | 📅 2026-10-20]
 
 **Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation** \
 \[[Website](https://arxiv.org/abs/2511.16671)]
@@ -7704,7 +7704,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models** \
 \[[NeurIPS 2023](https://arxiv.org/abs/2305.16381)]
-\[[Code](https://github.com/google-research/google-research/tree/master/dpok) ⭐ 39,510 | 🐛 2,020 | 🌐 Jupyter Notebook | 📅 2026-11-26]
+\[[Code](https://github.com/google-research/google-research/tree/master/dpok) ⭐ 39,558 | 🐛 2,023 | 🌐 Jupyter Notebook | 📅 2026-11-27]
 
 **Improving Compositional Generation with Diffusion Models Using Lift Scores** \
 \[[ICML 2025](https://arxiv.org/abs/2505.13740)]
@@ -7976,7 +7976,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **VPO: Aligning Text-to-Video Generation Models with Prompt Optimization** \
 \[[Website](https://arxiv.org/abs/2503.20491)]
-\[[Code](https://github.com/thu-coai/VPO) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2025-07-20]
+\[[Code](https://github.com/thu-coai/VPO) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2025-07-20]
 
 **ImageReFL: Balancing Quality and Diversity in Human-Aligned Diffusion Models** \
 \[[Website](https://arxiv.org/abs/2505.22569)]
@@ -8064,7 +8064,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **PromptRL: Prompt Matters in RL for Flow-Based Image Generation** \
 \[[Website](https://arxiv.org/abs/2602.01382)]
-\[[Code](https://github.com/G-U-N/UniRL) ⭐ 105 | 🐛 2 | 🌐 Python | 📅 2026-05-26]
+\[[Code](https://github.com/G-U-N/UniRL) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2026-05-26]
 
 **Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis** \
 \[[Website](https://arxiv.org/abs/2602.03139)]
@@ -9361,7 +9361,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Diffusion-based Image Translation using Disentangled Style and Content Representation** \
 \[[ICLR 2023](https://openreview.net/forum?id=Nayau9fwXU)]
 \[[Website](https://arxiv.org/abs/2209.15264)]
-\[[Code](https://github.com/cyclomon/DiffuseIT) ⭐ 303 | 🐛 1 | 🌐 Python | 📅 2023-01-21]
+\[[Code](https://github.com/cyclomon/DiffuseIT) ⭐ 304 | 🐛 1 | 🌐 Python | 📅 2023-01-21]
 
 **FlexIT: Towards Flexible Semantic Image Translation** \
 \[[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Couairon_FlexIT_Towards_Flexible_Semantic_Image_Translation_CVPR_2022_paper.html)]
@@ -9471,7 +9471,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **One-Step Image Translation with Text-to-Image Models** \
 \[[Website](https://arxiv.org/abs/2403.12036)]
-\[[Code](https://github.com/GaParmar/img2img-turbo) ⭐ 2,501 | 🐛 116 | 🌐 Python | 📅 2025-08-01]
+\[[Code](https://github.com/GaParmar/img2img-turbo) ⭐ 2,503 | 🐛 116 | 🌐 Python | 📅 2025-08-01]
 
 **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** \
 \[[Website](https://arxiv.org/abs/2408.03558)]
@@ -9647,7 +9647,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Personalize Segment Anything Model with One Shot** \
 \[[Website](https://arxiv.org/abs/2305.03048)]
-\[[Code](https://github.com/ZrrSkywalker/Personalize-SAM) ⭐ 1,682 | 🐛 41 | 🌐 Python | 📅 2024-07-22]
+\[[Code](https://github.com/ZrrSkywalker/Personalize-SAM) ⭐ 1,681 | 🐛 41 | 🌐 Python | 📅 2024-07-22]
 
 **DiffusionTrack: Diffusion Model For Multi-Object Tracking** \
 \[[Website](https://arxiv.org/abs/2308.09905)]
@@ -9851,14 +9851,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Adding Conditional Control to Text-to-Image Diffusion Models** \
 \[[ICCV 2023 best paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)]
 \[[Website](https://arxiv.org/abs/2302.05543)]
-\[[Official Code](https://github.com/lllyasviel/controlnet) ⭐ 34,160 | 🐛 461 | 🌐 Python | 📅 2024-02-25]
+\[[Official Code](https://github.com/lllyasviel/controlnet) ⭐ 34,161 | 🐛 461 | 🌐 Python | 📅 2024-02-25]
 \[[Diffusers Doc](https://huggingface.co/docs/diffusers/using-diffusers/controlnet)]
-\[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/controlnet) ⭐ 34,981 | 🐛 1,641 | 🌐 Python | 📅 2026-11-26]
+\[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/controlnet) ⭐ 34,983 | 🐛 1,650 | 🌐 Python | 📅 2026-11-27]
 
 **T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
 \[[Website](https://arxiv.org/abs/2302.08453)]
 \[[Official Code](https://github.com/TencentARC/T2I-Adapter) ⭐ 3,792 | 🐛 96 | 🌐 Python | 📅 2024-06-21]
-\[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/t2i_adapter) ⭐ 34,981 | 🐛 1,641 | 🌐 Python | 📅 2026-11-26]
+\[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/t2i_adapter) ⭐ 34,983 | 🐛 1,650 | 🌐 Python | 📅 2026-11-27]
 
 **SketchKnitter: Vectorized Sketch Generation with Diffusion Models** \
 \[[ICLR 2023 Spotlight](https://openreview.net/forum?id=4eJ43EN2g6l\&noteId=fxpTz_vCdO)]
@@ -9922,7 +9922,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance** \
 \[[Website](https://arxiv.org/abs/2406.07540)]
 \[[Project](https://genforce.github.io/ctrl-x/)]
-\[[Code](https://github.com/genforce/ctrl-x) ⭐ 308 | 🐛 6 | 🌐 Python | 📅 2025-09-12]
+\[[Code](https://github.com/genforce/ctrl-x) ⭐ 309 | 🐛 6 | 🌐 Python | 📅 2025-09-12]
 
 **Jodi: Unification of Visual Generation and Understanding via Joint Modeling** \
 \[[Website](https://arxiv.org/abs/2505.19084)]
@@ -10097,7 +10097,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer** \
 \[[Website](https://arxiv.org/abs/2503.09277)]
-\[[Code](https://github.com/Xuan-World/UniCombine) ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2025-06-27]
+\[[Code](https://github.com/Xuan-World/UniCombine) ⭐ 132 | 🐛 4 | 🌐 Python | 📅 2025-06-27]
 
 **ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning** \
 \[[Website](https://arxiv.org/abs/2506.03596)]
@@ -10297,7 +10297,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 \[[Website](https://arxiv.org/abs/2211.13227)]
 \[[Code](https://github.com/Fantasy-Studio/Paint-by-Example) ⭐ 1,252 | 🐛 33 | 🌐 Python | 📅 2023-11-28]
 \[[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/paint_by_example)]
-\[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/paint_by_example/pipeline_paint_by_example.py) ⭐ 34,981 | 🐛 1,641 | 🌐 Python | 📅 2026-11-26]
+\[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/paint_by_example/pipeline_paint_by_example.py) ⭐ 34,983 | 🐛 1,650 | 🌐 Python | 📅 2026-11-27]
 
 **GLIDE: Towards photorealistic image generation and editing with text-guided diffusion model** \
 \[[ICML 2022 Spotlight](https://icml.cc/virtual/2022/spotlight/16340)]
@@ -10370,7 +10370,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ObjectClear: Complete Object Removal via Object-Effect Attention** \
 \[[Website](https://arxiv.org/abs/2505.22636)]
 \[[Project](https://zjx0101.github.io/projects/ObjectClear/)]
-\[[Code](https://github.com/zjx0101/ObjectClear) ⭐ 635 | 🐛 25 | 🌐 Python | 📅 2026-08-03]
+\[[Code](https://github.com/zjx0101/ObjectClear) ⭐ 637 | 🐛 25 | 🌐 Python | 📅 2026-08-03]
 
 **Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting** \
 \[[Website](https://arxiv.org/abs/2404.18598)]
@@ -10400,7 +10400,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting** \
 \[[Website](https://arxiv.org/abs/2312.03594)]
 \[[Project](https://powerpaint.github.io/)]
-\[[Code](https://github.com/open-mmlab/mmagic/tree/main/projects/powerpaint) ⭐ 7,482 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2024-08-06]
+\[[Code](https://github.com/open-mmlab/mmagic/tree/main/projects/powerpaint) ⭐ 7,483 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2024-08-06]
 
 **Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive Content Generation** \
 \[[Website](https://arxiv.org/abs/2409.01055)]
@@ -10420,7 +10420,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MiniMax-Remover: Taming Bad Noise Helps Video Object Removal** \
 \[[Website](https://arxiv.org/abs/2505.24873)]
 \[[Project](https://minimax-remover.github.io/)]
-\[[Code](https://github.com/zibojia/MiniMax-Remover) ⭐ 627 | 🐛 11 | 🌐 Python | 📅 2025-07-27]
+\[[Code](https://github.com/zibojia/MiniMax-Remover) ⭐ 628 | 🐛 11 | 🌐 Python | 📅 2025-07-27]
 
 **EasyOmnimatte: Taming Pretrained Inpainting Diffusion Models for End-to-End Video Layered Decomposition** \
 \[[Website](https://arxiv.org/abs/2512.21865)]
@@ -10469,7 +10469,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance** \
 \[[Website](https://arxiv.org/abs/2412.12974)]
-\[[Code](https://github.com/Anonym0u3/AttentiveEraser) ⭐ 221 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-16]
+\[[Code](https://github.com/Anonym0u3/AttentiveEraser) ⭐ 222 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-16]
 
 **Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing** \
 \[[Website](https://arxiv.org/abs/2404.12900)]
@@ -14843,4 +14843,4 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
